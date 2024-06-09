@@ -306,6 +306,8 @@ slimbus.ko
 slim-qcom-ngd-ctrl.ko
 hwmon.ko
 qti_amoled_ecm.ko
+coresight-clk-amba-placeholder.ko
+coresight-clk-placeholder.ko
 coresight.ko
 coresight-tmc.ko
 coresight-funnel.ko
